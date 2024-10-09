@@ -1,4 +1,4 @@
-# Telemetry Receptor 
+# Telemetry Receiver
 
 ### The Receiver
 
